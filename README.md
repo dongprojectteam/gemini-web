@@ -12,7 +12,7 @@
 ```bash
 mkdir certs
 cd certs
-````
+```
 
 ### OpenSSL 명령어 실행
 
